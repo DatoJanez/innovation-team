@@ -1,0 +1,29 @@
+section{
+    margin: 0 auto;
+    width: 80%;
+}
+
+article{
+    width: 100%;
+    /* min-height: 45vh; */
+    display: flex;
+    margin-bottom: 3vh;
+}
+
+article > img{
+    width: 25%;
+    float: right;
+}
+
+article div{
+    width: 80%;
+    padding:  8px 15px;
+}
+
+article div img{
+    height:40px ;
+}
+
+*{
+    font-family: 'Open Sans', sans-serif;
+}
